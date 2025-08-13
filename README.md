@@ -1,4 +1,4 @@
-
+![logo](https://github.com/GitHub-Anurag01/GitHub-Anurag01/blob/main/Black%20and%20Gray%20Minimalist%20Shapes%20Personal%20Profile%20LinkedIn%20Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Anurag Singh</h1>
 <h3 align="center">A passionate software development from India</h3>
